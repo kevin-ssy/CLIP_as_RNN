@@ -1,4 +1,8 @@
 # CLIP_as_RNN
 ---
 
-The code will be released once it passes the legal review of Google.
+The code of CLIP as RNN is released at [Google Research](https://github.com/kevin-ssy/google-research/tree/master/clip_as_rnn).
+
+We're still actively working on it and hopefully it can be fully released in one week.
+
+Thank you for your kind interests!!
