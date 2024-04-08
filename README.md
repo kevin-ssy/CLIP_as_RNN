@@ -2,6 +2,8 @@
 
 [Shuyang Sun*](https://kevin-ssy.github.io/), [Runjia Li*](https://runjiali-rl.github.io/), [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/), [Xiuye Gu](https://laoreja.github.io/), [Siyang Li](https://siyangl.github.io/)
 
+[[`arXiv`](https://arxiv.org/abs/2312.07661)] [[`Project`](https://torrvision.com/clip_as_rnn/)]
+
 <div align="center">
   <img src="https://torrvision.com/images/images_for_pub/clip_as_rnn_teaser.png" width="100%" height="100%"/>
 </div><br/>
