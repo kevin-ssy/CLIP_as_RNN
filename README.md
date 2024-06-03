@@ -24,7 +24,7 @@ The README doc is currently under development.
 
 ### Demo
 
-We have set up an online demo. You can check it out at: [TODO](.)
+We have set up an online demo. You can check it out at: [here](https://huggingface.co/spaces/kevinssy/CLIP_as_RNN?logs=container)
 
 ### Run Demo Locally
 
