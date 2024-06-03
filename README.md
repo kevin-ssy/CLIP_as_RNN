@@ -2,7 +2,7 @@
 
 [Shuyang Sun*](https://kevin-ssy.github.io/), [Runjia Li*](https://runjiali-rl.github.io/), [Philip Torr](https://eng.ox.ac.uk/people/philip-torr/), [Xiuye Gu](https://laoreja.github.io/), [Siyang Li](https://siyangl.github.io/)
 
-[[`arXiv`](https://arxiv.org/abs/2312.07661)] [[`Project`](https://torrvision.com/clip_as_rnn/)] [[`Code`](https://github.com/google-research/google-research/tree/master/clip_as_rnn)] [[`demo`](https://huggingface.co/spaces/kevinssy/CLIP_as_RNN?logs=container)]
+[[`arXiv`](https://arxiv.org/abs/2312.07661)] [[`Project`](https://torrvision.com/clip_as_rnn/)] [[`Code`](https://github.com/google-research/google-research/tree/master/clip_as_rnn)] [[`Demo`](https://huggingface.co/spaces/kevinssy/CLIP_as_RNN?logs=container)]
 
 The code is fully released at [Google Research](https://github.com/google-research/google-research/tree/master/clip_as_rnn).
 
