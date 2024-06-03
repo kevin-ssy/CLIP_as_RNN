@@ -24,7 +24,7 @@ The README doc is currently under development.
 
 ### Demo
 
-We have set up an online demo. You can check it out at: [here](https://huggingface.co/spaces/kevinssy/CLIP_as_RNN?logs=container)
+We have set up an online demo. Currently, the web demo does not support SAM since it's just a CPU-only server. You can check it out at: [here](https://huggingface.co/spaces/kevinssy/CLIP_as_RNN?logs=container)
 
 ### Run Demo Locally
 
