@@ -10,15 +10,13 @@ The code is fully released at [Google Research](https://github.com/google-resear
   <img src="https://torrvision.com/images/images_for_pub/clip_as_rnn_teaser.png" width="100%" height="100%"/>
 </div><br/>
 
-The README doc is currently under development.
-
 ## Installation
 
 ### Requirements
 - Anaconda 3
 - PyTorch ≥ 1.7 and [torchvision](https://github.com/pytorch/vision/) that matches the PyTorch installation.
   Install them together at [pytorch.org](https://pytorch.org) to make sure of this.
-- `conda env create --name ENV_NAME --file=car_env.yml`
+- `conda env create --name ENV_NAME --file=env.yml`
 
 ## Getting Started
 
