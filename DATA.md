@@ -1,6 +1,6 @@
 # Data Preparation
 
-We use [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) for semantic segmentation testing, evaluation and visualization on Pascal VOC, Pascal Context and COCO datasets. You do not need to construct a tree-like data structure within the codebase. To specify the root of each folder, you need to modify the `data_root` attribute in each config file.
+We use [mmsegmentation](https://github.com/open-mmlab/mmsegmentation) for semantic segmentation testing, evaluation and visualization on Pascal VOC, Pascal Context and COCO datasets. You do not need to construct a tree-like data structure within the codebase. To specify the root of each folder, you need to modify the `data_root` attribute in each config file. All datasets include the "background" class for mIoU evaluation.
 
 ## Semantic Segmentation
 
